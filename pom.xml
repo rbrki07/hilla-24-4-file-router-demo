@@ -4,14 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/8f34134f-413f-44d5-8b63-4b5505e63019 -->
     <groupId>com.example.application</groupId>
-    <artifactId>hilla-fs-router-test</artifactId>
-    <name>hilla-fs-router-test</name>
+    <artifactId>hilla-24-4-file-router-demo</artifactId>
+    <name>hilla-24-4-file-router-demo</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
         <java.version>21</java.version>
-        <vaadin.version>24.4.0.alpha20</vaadin.version>
+        <vaadin.version>24.4.0.alpha21</vaadin.version>
     </properties>
 
     <parent>
@@ -77,7 +77,15 @@
             <version>2.0.0</version>
         </dependency>
 
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
