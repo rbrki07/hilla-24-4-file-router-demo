@@ -1,6 +1,6 @@
 # Hilla 24.4 File-Router Demo
 
-This project shows a few aspects of the new File Router shipping with Release 24.4 of [Hilla](https://hilla.dev).
+This project shows a few aspects of the new File Router shipping with release 24.4 of [Hilla](https://hilla.dev).
 
 Please checkout out the corresponding [blog post](https://www.rene-wilby.de/en/blog/hilla-file-router-preview/), to find out more about the project, its intention and how to use it.
 
