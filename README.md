@@ -1,6 +1,19 @@
 # Hilla 24.4 File-Router Demo
 
-## Links
+This project shows a few aspects of the new File Router shipping with Release 24.4 of [Hilla](https://hilla.dev).
+
+Please checkout out the corresponding [blog post](https://www.rene-wilby.de/en/blog/hilla-file-router-preview/), to find out more about the project, its intention and how to use it.
+
+## Running the application
+
+The project is a standard Maven project. To run it from the command line,
+type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
+http://localhost:8080 in your browser.
+
+You can also import the project to your IDE of choice as you would with any
+Maven project.
+
+## Useful links
 
 ### RFC: File-based router configuration
 

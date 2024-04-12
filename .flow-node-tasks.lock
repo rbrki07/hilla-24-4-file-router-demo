@@ -1,2 +1,0 @@
-10904
-/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:54563 @/var/folders/4f/2qkqpf957ld_q8vvlwbbwt5m0000gp/T/cp_dttcwzn9jxbh8zhmfbzp1ya2q.argfile com.example.application.Application
