@@ -19,6 +19,10 @@ Maven project.
 
 - https://github.com/vaadin/hilla/discussions/1975
 
+### Forum announcement with Vaadin 24.4.0.beta1
+
+- https://vaadin.com/forum/t/trying-out-the-file-system-router-in-vaadin-24-4-beta1/166143
+
 ### Basic docs for filesystem-based routing
 
 - https://github.com/vaadin/docs/issues/3164
